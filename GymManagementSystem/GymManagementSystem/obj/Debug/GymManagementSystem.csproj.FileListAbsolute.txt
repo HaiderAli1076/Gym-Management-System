@@ -1,0 +1,58 @@
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\BCrypt-Net-Next.dll
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManag.A6E153F4.Up2Date
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Forms.LoginForm.resources
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Forms.DashboardForm.resources
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Forms.EquipmentForm.resources
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Forms.MemberForm.resources
+C:\Users\User\Downloads\gym managment system\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Forms.Staffform.resources
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe.config
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.exe
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\GymManagementSystem.pdb
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\BCrypt-Net-Next.dll
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\System.Buffers.xml
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\System.Memory.xml
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Forms.DashboardForm.resources
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Forms.EquipmentForm.resources
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Forms.LoginForm.resources
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Forms.MemberForm.resources
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Forms.Staffform.resources
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManag.A6E153F4.Up2Date
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.exe
+C:\Users\User\Desktop\New folder\GymManagementSystem\GymManagementSystem\obj\Debug\GymManagementSystem.pdb
