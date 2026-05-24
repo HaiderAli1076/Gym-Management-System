@@ -1,1 +1,14 @@
 .vs/
+bin/
+obj/
+*.exe
+*.dll
+*.db
+*.pdb
+packages/
+bin/
+obj/
+*.exe
+*.dll
+*.db
+*.pdb
